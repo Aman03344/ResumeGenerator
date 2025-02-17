@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+*{
+  /* border:  1px solid  black; */
+}
+
+body{
+  background-color: #FFFAEB;
+}
+
+button{
+  background-color: #4C7F78;
+}
